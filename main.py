@@ -1,0 +1,3 @@
+"""Funny sign for a haunted server room."""
+
+print("CAUTION: HAUNTED SERVER ROOM. If the lights flicker, that's just the ghost doing a hard reboot—do NOT press power.")
